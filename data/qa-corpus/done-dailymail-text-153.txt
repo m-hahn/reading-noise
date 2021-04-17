@@ -1,0 +1,28 @@
+153
+http://web.archive.org/web/20150423090009id_/http://www.dailymail.co.uk/sport/football/article-3035294/Chelsea-head-head-Manchester-City-race-sign-Brazilian-starlet-Nathan.html
+
+--
+Chelsea are looking to beat Manchester City to sign Brazilian prospect Nathan.
+The attacking midfielder turned 19 last month but has been in contract dispute with his club Atletico Paranaense.
+He is due to speak to Chelsea next week ahead of a proposed move to Stamford Bridge which would likely see him loaned out.
+Manchester City have been keen on Nathan following his performances in the World U17 Championships two years ago and he has since broken into Paranaense's first team.
+Chelsea have a strong Brazilian contingency with the likes of Willian, Ramires, Filipe Luis and Oscar while 21-year-old Lucas Piazon is on loan at Eintracht Frankfurt.
+
+--
+
+
+Both Chelsea and Manchester City are keen on signing @placeholder.
+
++Nathan
+-Willian
+-Ramires
+-Oscar
+
+
+Nathan is due to speak to @placeholder next week ahead of proposed move.
+0.0
++Chelsea
+-Manchester City
+-Eintracht Frankfurt
+-Atletico Paranaense
+
