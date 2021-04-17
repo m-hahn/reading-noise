@@ -1,0 +1,9 @@
+NA                    97.6520400308
+phonetics             36.181678214
+delete                16.7051578137
+swap_repeat           10.9699769053
+keyboard              10.5080831409
+other_err             8.85296381832
+insert                8.27559661278
+other_real            6.15858352579
+caps                  2.34795996921

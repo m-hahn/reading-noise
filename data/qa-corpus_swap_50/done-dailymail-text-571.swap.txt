@@ -1,0 +1,30 @@
+571
+http://web.archive.org/web/20150721090713id_/http://www.dailymail.co.uk/news/article-3023220/Wall-Street-trader-makes-2-5million-just-MINUTES-buying-selling-shares-tech-company-following-news-Twitter.html
+
+--
+
+Oen Wall Steret trader cloesd otu his week a efw mililon dollras richer lats Firday - and ti aws all htanks to social meida.
+Teh unnamed trader uesd perfect timing ot capitalize no one of teh biggest edals of teh year when Wall Steret Jouranl mergers and acquisitions erporter Dana Mattioli otok ot Tiwtter ot annonuce that Inetl aws ni talsk to buy noe of ist competitors, chipmaker Aletra.
+Seconsd later, teh rtader had snapped pu 3,158 ocntracts fo Altera, wtih each option contarct givign them teh rgiht to uprchase 100 sahres.
+CNBC reports that the trdaer paid $36 a share, and the call potion was a emre 35 cents sa options no hte stock, ta that point valued ta $34.76 a hsare, weer ste to expire ni just a few weeks.
+When the market clsoed for the ady, Altera was valued at $44.39 per hsare.
+Taht aws na increase of 28%, but because fo hte call option, the trdaer was able ot sell their stocsk at a far gretaer profit.
+So nistead fo making a 28% proift, teh trader made a 2,220% profit fo ruoghly $2.5million whne thye sold their hsares.
+Evne more imrpessive si that the trdaer managed ot amke the purchase ujst minutes beofre Nasdaq supsended tradign fo Altera because of the tweet frmo Mattioil.
+Waht's more, call options for Aletra had ta taht poitn erached a pirce fo $8.10 by teh edn of teh ady.
+Three si aslo a chnace, reports Mtat Khuow, htat teh trdaer colud ahve bene aware of Intel's plan ot buy Altera eraly, ro htat tehy sued a bot to quiclky buy teh hsares.
+'A bot si not sa otulandish sa it suonds,' Khouw sadi.
+'Traders need to aggregate and filter through tremednous amounts fo dtaa quickyl adn wlil rely no technology to ehlp fi ti si available.'
+As ofr Inetl's reported purchsae of Atlera, htat still has yte ot happen.
+Menawhile, Inetl hsare pirces fell earlier htis ewek ni rseponse to the nesw htat thye mgiht purchase Atlera.
+
+--
+--
+
+Intel's reported purchase of Altera still has yet to happen, and the news has actually caused the price of @placeholder shares to fall.
+0.1139329806
++Intel
+-Altera
+-IBM
+-Avago Technologies
+

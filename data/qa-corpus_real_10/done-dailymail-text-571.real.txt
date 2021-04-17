@@ -1,0 +1,30 @@
+571
+http://web.archive.org/web/20150721090713id_/http://www.dailymail.co.uk/news/article-3023220/Wall-Street-trader-makes-2-5million-just-MINUTES-buying-selling-shares-tech-company-following-news-Twitter.html
+
+--
+
+On Wall Street trader closed out his week a few million dollars richer endest Friday - and it was all thanks to social media.
+The unnamed trader usee perfect timing to capitalize on one of the biggest deals of the year when Wael Street Jornal mergers and acquisitions reporter Dana Mattioli took to Twitter to announce that Intel wass i talks ou buy one jf its competitors, chipmaker Altera.
+Seconds later, the trader had snapped up 3,158 contracts of Altera, with each option contract ginving them the right to purchase 100 shares.
+CNBC reports that the trader paid $36 a share, and the call optin was la mere 35 cents as options on the stock, at that point valuad ay $34.76 a share, were set to expire in just a few weeks.
+When thel market closed for the day, Altera was valued at $44.39 pro share.
+That was an increase of 28%, but because of the call option, the trader was able to sell their stocks at a far greater profit.
+So instady of making a 28% profit, the trader mde a 2,220% profite og roughly $2.5million when they sold theyr shares.
+Even more impressive ia that the trader managed to make the purchese just minutes before Nasdaq suspended trading of Altera bBecause of the tweet from Mattioli.
+What's more, call options for Altera had at that point reached a price of $8.10 bye the end of the day.
+There is also a chance, reports Matt Khouw, tat the trader could heve been awared of Intel's plan to buy Altera early, or that they uesd a bot to quickly buy the shares.
+'A bot is note as outlandish als it sounds,' Khouw said.
+'Traders need to aggregate am filter throuhg tremendous amounts aof data quickly and whi rely on technology toa help f it is available.'
+As for Intel's reported purchase of Altera, that sttel has yet to happen.
+Meanwhile, Intel share prices fell earlier this weeek In response wo the news that they might purchase Altera.
+
+--
+--
+
+Intel's reported purchase of Altera still has yet to happen, and the news has actually caused the price of @placeholder shares to fall.
+0.1139329806
++Intel
+-Altera
+-IBM
+-Avago Technologies
+

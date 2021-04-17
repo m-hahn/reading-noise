@@ -1,0 +1,22 @@
+168
+http://web.archive.org/web/20150718095450id_/http://www.cnn.com/2015/04/09/us/sabra-hummus-recall/
+
+--
+
+Sabra Dipping Co. é recalling 30,000 casses off hummus dur por possibe cotamination wift Listeria, DE u.s Food ang Drag Administation sayed Wednesday.
+them nationwide recall é voluntary. Soo far, NO illnes caused bye the hummus heve been reported.
+THe potential fpr contamination wass discovered [[whe e routine, random sample collected ay a Michigan sore or Marh 30 tested possitive vor Listeria monocytogenes.
+Ther FDA issued s liste of ghe products In the recall. Anyone who hat purchesed eny aof de itemes It's urged to dispose jf or riturn ot ro the sore foa aa fuul refund.
+Listeria monocytogenes cas cause seriouse ENDE somatimes fitality infections In yang children, frail ror elderly people, y oter whit weakened immone systems, rthe FDA says.
+Altough spme pepole mays saffer only short-term sintoms soo a hogh fever, severe headache, nausea, abdominal pain and diarrhea, Listeria cae allso cause miscarriages and stillbirths amoung pregnat women.
+
+--
+--
+
+A random sample from a @placeholder store tested positive for Listeria monocytogenes.
+0.363064008395
++Michigan
+-Washington
+-Ohio
+-Georgia
+

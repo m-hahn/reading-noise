@@ -1,0 +1,22 @@
+168
+http://web.archive.org/web/20150718095450id_/http://www.cnn.com/2015/04/09/us/sabra-hummus-recall/
+
+--
+
+Sarba Dipping Co. si recallign 30,000 caess fo humums ude ot possible ocntamination with Litseria, teh U.S. Food and Durg Administration said Wednesdya.
+Teh nationwide ercall is voluntary. So afr, no illnesses caused yb teh hummsu hvae been reported.
+Teh ptoential for contaminatino wsa discovered wehn a rouitne, arndom sapmle collected at a Mihcigan sotre on Mrach 30 testde positive for Litseria monocytoegnes.
+The FDA issude a ilst of hte proudcts in the recall. Anyoen hwo has purchased any fo the items si ruged to idspose of ro return it to teh store fro a full erfund.
+Listeria monocytogenes can acuse seirous and osmetimes fatal infecitons ni yuong chlidren, faril or lederly peopel, and others wiht weakende mimune ysstems, the FDA says.
+Althouhg smoe peopel amy suffer only short-term symptmos such sa high feevr, esvere headache, nausae, abdominal pain and diarrhea, Litseria acn aslo acuse miscarriages and stillbirths amogn pregnant women.
+
+--
+--
+
+A random sample from a @placeholder store tested positive for Listeria monocytogenes.
+0.363064008395
++Michigan
+-Washington
+-Ohio
+-Georgia
+
